@@ -2,7 +2,7 @@
 **为UCSD中国留学生打造的多平台匿名论坛**  
 [Website](https://unsea.ucsdtriplec.org)  
 [Design](https://www.figma.com/file/9engUOmPwjAsvcumfgMbUw/UnSea-V2?node-id=0%3A1)  
-[GitLab](https://gitlab.com/ucsd-triple-c/treehole)
+[GitLab](https://gitlab.com/ucsd-triple-c/treehole)  
 ![UnSea_Logo](https://unsea.ucsdtriplec.org/images/unsea%20logo.png)
 
 ## 目录
